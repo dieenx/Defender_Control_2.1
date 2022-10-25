@@ -25,9 +25,11 @@ Khi bạn sử dụng tính năng này, một lối tắt sẽ được tạo tr
 1. Màu xanh lá cây - Microsoft Defender đang chạy
 
 ![](/Picture/windows_defender_is_turned_off.png)
+
 2. Màu đỏ - Microsoft Defender bị tắt
 
 ![](/Picture/windows_defender_is_running.png)
+
 3. Màu cam - Không thể khởi động Microsoft Defender của Entweder oder Bảo vệ thời gian thực bị tắt
 
 ![](/Picture/defender_can_not_be_started.png)
